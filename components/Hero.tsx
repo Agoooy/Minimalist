@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Yoga, a Full-Stack Developer based in Indonesian.
+            Hi! I&apos;m Yoga, a Full-Stack Developer based in Indonesia.
           </p>
 
           <a href="#about">
